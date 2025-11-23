@@ -1,0 +1,27 @@
+
+
+##
+## # Desktop Environment
+##
+
+
+
+
+##
+## * https://wiki.archlinux.org/title/Openbox
+##
+
+
+
+
+##
+## ## Package / Desktop Environment / Openbox
+##
+
+openbox
+
+
+feh
+tint2
+picom
+rofi
